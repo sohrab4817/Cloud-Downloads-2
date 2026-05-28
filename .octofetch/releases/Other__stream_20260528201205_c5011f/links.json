@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6221",
+  "folder": "Other__stream_20260528201205_c5011f",
+  "base_name": "Other__stream_20260528201205_c5011f.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/sohrab4817/Cloud-Downloads-2/releases/tag/co-releases-v1-6221",
+  "files": [
+    {
+      "name": "Other__stream_20260528201205_c5011f.mp4",
+      "url": "https://github.com/sohrab4817/Cloud-Downloads-2/releases/download/co-releases-v1-6221/Other__stream_20260528201205_c5011f.mp4",
+      "api_url": "https://api.github.com/repos/sohrab4817/Cloud-Downloads-2/releases/assets/432391604",
+      "id": 432391604,
+      "size": 1392743865,
+      "download_count": 0
+    }
+  ]
+}
