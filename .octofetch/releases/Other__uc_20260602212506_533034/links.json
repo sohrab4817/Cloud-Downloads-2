@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5685",
+  "folder": "Other__uc_20260602212506_533034",
+  "base_name": "Other__uc_20260602212506_533034.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/sohrab4817/Cloud-Downloads-2/releases/tag/co-releases-v1-5685",
+  "files": [
+    {
+      "name": "Other__uc_20260602212506_533034.bin",
+      "url": "https://github.com/sohrab4817/Cloud-Downloads-2/releases/download/co-releases-v1-5685/Other__uc_20260602212506_533034.bin",
+      "api_url": "https://api.github.com/repos/sohrab4817/Cloud-Downloads-2/releases/assets/436605403",
+      "id": 436605403,
+      "size": 2523,
+      "download_count": 0
+    }
+  ]
+}
