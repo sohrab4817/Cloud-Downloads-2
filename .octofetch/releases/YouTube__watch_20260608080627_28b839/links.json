@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8148",
+  "folder": "YouTube__watch_20260608080627_28b839",
+  "base_name": "The_Search_for_Signs_of_Intelligent_Life_in_the_Universe_(1991)_Part_1_67m58I-jDBI_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/sohrab4817/Cloud-Downloads-2/releases/tag/co-releases-v1-8148",
+  "files": [
+    {
+      "name": "The_Search_for_Signs_of_Intelligent_Life_in_the_Universe_.1991._Part_1_67m58I-jDBI_360p.mp4",
+      "url": "https://github.com/sohrab4817/Cloud-Downloads-2/releases/download/co-releases-v1-8148/The_Search_for_Signs_of_Intelligent_Life_in_the_Universe_.1991._Part_1_67m58I-jDBI_360p.mp4",
+      "api_url": "https://api.github.com/repos/sohrab4817/Cloud-Downloads-2/releases/assets/441538245",
+      "id": 441538245,
+      "size": 37365688,
+      "download_count": 0
+    }
+  ]
+}
