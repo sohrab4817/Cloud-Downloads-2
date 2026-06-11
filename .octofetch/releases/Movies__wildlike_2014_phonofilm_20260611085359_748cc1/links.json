@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7538",
+  "folder": "Movies__wildlike_2014_phonofilm_20260611085359_748cc1",
+  "base_name": "Movies__wildlike_2014_phonofilm_20260611085359_748cc1.mkv",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/sohrab4817/Cloud-Downloads-2/releases/tag/co-releases-v1-7538",
+  "files": [
+    {
+      "name": "Movies__wildlike_2014_phonofilm_20260611085359_748cc1.mkv",
+      "url": "https://github.com/sohrab4817/Cloud-Downloads-2/releases/download/co-releases-v1-7538/Movies__wildlike_2014_phonofilm_20260611085359_748cc1.mkv",
+      "api_url": "https://api.github.com/repos/sohrab4817/Cloud-Downloads-2/releases/assets/444525459",
+      "id": 444525459,
+      "size": 733994693,
+      "download_count": 0
+    }
+  ]
+}
